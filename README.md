@@ -1,8 +1,8 @@
 ## Hi there, I'm Piotr 👋
 
--   👷 I am a Senior QA Engineer specializing in e2e automation using [Playwright](https://github.com/microsoft/playwright).
+-   👷 I am a Senior QA Engineer with extensive experience in end-to-end test automation, primarily using [Playwright](https://github.com/microsoft/playwright).
 
--   📫 Reach me out at piotrkwiatkowski1@gmail.com or on [LinkedIn](https://www.linkedin.com/in/piotr-kwiatkowski-97a993a1/).
+-   📫 Reach out to me at piotrkwiatkowski1@gmail.com or on [LinkedIn](https://www.linkedin.com/in/piotr-kwiatkowski-97a993a1/).
 
 <!--
 
